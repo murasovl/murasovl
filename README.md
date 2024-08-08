@@ -9,14 +9,19 @@ Outside of academics, I’ve volunteered in various educational initiatives and 
 
 ### My skills include
 
+<p align="center">
+	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/murasovl/murasovl/master/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+   <img title="Jupyter" alt="Jupyter" src="https://raw.githubusercontent.com/murasovl/murasovl/master/Jupyter_logo.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="R" alt="linux" src="https://raw.githubusercontent.com/murasovl/murasovl/master/r-lang.svg" width="55" style="vertical-align:down; margin:4px"/>
+	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/murasovl/murasovl/master/git.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+</p>
 
 
 <hr>
 <p align="center">
-   <i>A problem can be solved in a 100 different ways and There's always an easier way to solve a problem.</i>
+   <i>"How do we justify, as it were, that science would give us the truth? It works. Planes fly, cars drive, computers compute. If you base medicine on science, you cure people; if you base the design of planes on science, they fly; if you base the design of rockets on science, they reach the moon. It works …"</i>
    <br>
-   <i>You miss 100% of the shots you don't take.</i>
-   <br>
+
 <br>
 <a target="_blank" href="https://www.linkedin.com/in/lina-murasov"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:28linam@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
