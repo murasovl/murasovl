@@ -11,9 +11,12 @@ Outside of academics, I’ve volunteered in various educational initiatives and 
 
 <p align="center">
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/murasovl/murasovl/master/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-   <img title="Jupyter" alt="Jupyter" src="https://raw.githubusercontent.com/murasovl/murasovl/master/Jupyter_logo.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
-	<img title="R" alt="linux" src="https://raw.githubusercontent.com/murasovl/murasovl/master/r-lang.svg" width="55" style="vertical-align:down; margin:4px"/>
+	<img title="Matlab" alt="Matlab" src="https://raw.githubusercontent.com/murasovl/murasovl/master/matlab-svgrepo-com.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="R" alt="R" src="https://raw.githubusercontent.com/murasovl/murasovl/master/r-lang.svg" width="55" style="vertical-align:down; margin:4px"/>
+	<img title="Jupyter" alt="Jupyter" src="https://raw.githubusercontent.com/murasovl/murasovl/master/Jupyter_logo.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="VSCode" alt="VSCode" src="https://raw.githubusercontent.com/murasovl/murasovl/master/vscode.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="Git" alt="Git" src="https://raw.githubusercontent.com/murasovl/murasovl/master/git.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
+	<img title="DBeaver" alt="DBeaver" src="https://raw.githubusercontent.com/murasovl/murasovl/master/DBeaver_logo.svg" width="70" height="40" style="vertical-align:down; margin:4px"/>
 </p>
 
 
