@@ -22,7 +22,7 @@ Outside of academics, I’ve volunteered in various educational initiatives and 
 
 <hr>
 <p align="center">
-   <i>"How do we justify, as it were, that science would give us the truth? It works. Planes fly, cars drive, computers compute. If you base medicine on science, you cure people; if you base the design of planes on science, they fly; if you base the design of rockets on science, they reach the moon. It works …"</i>
+   <i>"How do we justify, as it were, that science would give us the truth? It works. Planes fly, cars drive, computers compute. If you base medicine on science, you cure people; if you base the design of planes on science, they fly; if you base the design of rockets on science, they reach the moon. It works …" ~ Prof. Richard Dawkins </i>
    <br>
 
 <br>
